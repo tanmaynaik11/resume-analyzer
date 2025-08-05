@@ -1,4 +1,4 @@
-# candidate_engine.py (Latest Version - OpenAI Embeddings Only)
+
 import openai
 import pandas as pd
 import numpy as np
@@ -31,7 +31,7 @@ class CandidateRecommendationEngine:
             print(f"[DEBUG] {message}")
     
     def extract_text_from_file(self, uploaded_file):
-        """Extract text from uploaded files with improved methods"""
+        """Extract text from uploaded files"""
         try:
             self.debug_print(f"Extracting from file: {uploaded_file.name}")
             
@@ -56,7 +56,7 @@ class CandidateRecommendationEngine:
             raise Exception(f"Error extracting text from {uploaded_file.name}: {str(e)}")
     
     def _extract_from_pdf_improved(self, uploaded_file):
-        """Improved PDF text extraction"""
+        """PDF text extraction"""
         text = ""
         
         try:
@@ -106,7 +106,7 @@ class CandidateRecommendationEngine:
             return f"Could not extract text from DOCX: {uploaded_file.name}"
     
     def _clean_extracted_text(self, text):
-        """Clean and normalize extracted text - handles word-per-line PDFs"""
+        """Clean and normalize extracted text"""
         if not text or len(text.strip()) < 10:
             return "No readable text found in document"
         
