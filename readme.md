@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered system that matches resumes with job descriptions using advanced embedding techniques with Holistic or hybrid scoring approaches. The system provides both holistic resume analysis and section-wise detailed matching for comprehensive candidate evaluation.
 
+![Alt text](UI-ss.png)
+
 ## 🚀 Features
 
 - **Dual Matching Approaches**: 
