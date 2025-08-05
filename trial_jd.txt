@@ -1,0 +1,67 @@
+# Senior Data Scientist - AI/ML Team
+
+**Company:** TechFlow Analytics  
+**Location:** San Francisco, CA (Remote Friendly)  
+**Experience Level:** 5+ years  
+
+## About the Role
+
+We are seeking a highly skilled Senior Data Scientist to join our AI/ML team and drive data-driven decision making across our organization. You will work on cutting-edge machine learning projects, from recommendation systems to predictive analytics, and help scale our data science capabilities.
+
+## Key Responsibilities
+
+- Design and implement machine learning models for business applications
+- Analyze large datasets to extract actionable insights and patterns
+- Build and maintain scalable data pipelines and ML infrastructure
+- Collaborate with cross-functional teams including engineering, product, and business teams
+- Mentor junior data scientists and establish best practices
+- Present findings and recommendations to senior leadership
+- Stay current with latest developments in AI/ML and implement innovative solutions
+
+## Required Qualifications
+
+- Master's or PhD in Data Science, Computer Science, Statistics, Mathematics, or related field
+- 5+ years of experience in data science and machine learning
+- Strong proficiency in Python and SQL
+- Experience with machine learning frameworks (scikit-learn, TensorFlow, PyTorch)
+- Expertise in statistical analysis and experimental design
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Proficiency with data manipulation tools (pandas, numpy)
+- Strong understanding of A/B testing and statistical inference
+- Experience with big data technologies (Spark, Hadoop) is a plus
+
+## Preferred Qualifications
+
+- Experience with deep learning and neural networks
+- Knowledge of MLOps practices and model deployment
+- Experience with recommendation systems or NLP
+- Publications in peer-reviewed conferences or journals
+- Experience with containerization (Docker, Kubernetes)
+- Background in time series analysis or forecasting
+- Experience leading cross-functional data science projects
+
+## Technical Skills
+
+- **Programming:** Python, SQL, R (nice to have)
+- **ML** TensorFlow, PyTorch, XGBoost
+- **Big Data:** Apache Spark, Hadoop, Databricks
+- **Cloud:** AWS (S3, EC2, SageMaker), GCP, Azure
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redshift
+- **Tools:** Jupyter, Git, Docker, Airflow, MLflow
+
+
+## What We Offer
+
+- Competitive salary ($140,000 - $180,000) plus equity
+- Comprehensive health, dental, and vision insurance
+- Flexible working arrangements and remote work options
+- Professional development budget and conference attendance
+- State-of-the-art equipment and technology
+- Collaborative and innovative work environment
+- Opportunity to work on impactful projects at scale
+
+## Company Culture
+
+TechFlow Analytics values innovation, collaboration, and continuous learning. We believe in empowering our team members to take ownership of their work and drive meaningful impact. Our diverse team of experts works together to solve complex problems and deliver exceptional results for our clients.
+
+We are committed to building an inclusive and diverse workplace where everyone can thrive and contribute their unique perspectives and experiences.
